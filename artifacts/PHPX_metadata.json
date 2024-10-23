@@ -1141,7 +1141,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contract-d4416d362c.sol": "PHPX"
+			"phpx.sol": "PHPX"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -1363,7 +1363,7 @@
 				"dweb:/ipfs/QmVUSvooZKEdEdap619tcJjTLcAuH6QBdZqAzWwnAXZAWJ"
 			]
 		},
-		"contract-d4416d362c.sol": {
+		"phpx.sol": {
 			"keccak256": "0xa54f33f6c6a8fbb2a7347f5532f48b9261b6eee8d02c57d097ab7e5c699ccee7",
 			"license": "MIT",
 			"urls": [
